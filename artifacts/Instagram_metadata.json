@@ -191,11 +191,7 @@
 	},
 	"sources": {
 		"truffle-app\\contracts\\Instagram.sol": {
-			"keccak256": "0x54e2f8783ae025e769e8ce39f1e0a5560a355e473387dd693c2c0e18eb38599c",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://7629f45ab068a800867e1c9f0517e0971a5dab1d95ee1ff6e7741c079831fbc5",
-				"dweb:/ipfs/QmWQowe4ATw3Un24nKDoZdYPvWQpSKR5aZDh3xherxivKN"
+// 
 			]
 		}
 	},
